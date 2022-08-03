@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/1cf98f14-9b83-424c-bad2-4abb54f3a051.svg)](https://wakatime.com/@1cf98f14-9b83-424c-bad2-4abb54f3a051)
 
 - 🔭 I’m currently working as Freelance Fullstack Web Developer
-- 🌱 I’m currently learning anything that I can
+- 🌱 I’m still learning
 - ⚡ Fun fact: I'm self studied, just high school graduate, and doesn't have a college degree
 - 📫 How to reach me: [Email](mailto:dani@emailku.id)
 
