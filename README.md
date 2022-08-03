@@ -3,6 +3,9 @@
 [![wakatime](https://wakatime.com/badge/user/1cf98f14-9b83-424c-bad2-4abb54f3a051.svg)](https://wakatime.com/@1cf98f14-9b83-424c-bad2-4abb54f3a051)
 
 - 🔭 I’m currently working as Freelance Fullstack Web Developer
+- 🌱 I’m currently learning anything that I can
+- ⚡ Fun fact: I'm self studied, just high school graduate, and doesn't have a college degree
+- 📫 How to reach me: [Email](mailto:dani@emailku.id)
 
 <!--
 **mzdani/mzdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
