@@ -1,8 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mirdani Handoko</h1>
+<h3 align="center">A passionate developer from Indonesia</h3>
+<div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/1cf98f14-9b83-424c-bad2-4abb54f3a051.svg)](https://wakatime.com/@1cf98f14-9b83-424c-bad2-4abb54f3a051)
+[![mzdani](https://komarev.com/ghpvc/?username=mzdani&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=mzdani&label=Profile%20views&color=0e75b6&style=flat)<space><space>
+[![wakatime](https://wakatime.com/badge/user/1cf98f14-9b83-424c-bad2-4abb54f3a051.svg)](https://wakatime.com/@1cf98f14-9b83-424c-bad2-4abb54f3a051)<space><space>
 
-- 🔭 I’m currently working as Freelance Fullstack Web Developer
+</div>
+
+- 🔭 I’m currently working as Fullstack Web Developer freelance
 - 🌱 I’m still learning
 - ⚡ Fun fact: I'm self studied, just high school graduate, and doesn't have a college degree
 - 📫 How to reach me: [Email](mailto:dani@emailku.id)
