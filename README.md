@@ -10,7 +10,7 @@
 - 🔭 I’m currently working as Fullstack Web Developer freelance
 - 🌱 I’m still learning
 - ⚡ Fun fact: I'm self studied, just high school graduate, and doesn't have a college degree
-- 📫 How to reach me: [Email](mailto:dani@emailku.id)
+- 📫 How to reach me: [Email](mailto:dani@emailku.id), <a rel="me" href="https://mastodon.world/@mzdani">Mastodon</a>
 
 <!--
 **mzdani/mzdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
